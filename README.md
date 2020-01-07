@@ -1,2 +1,6 @@
 # hello-world
-Hello world app
+
+Hi,
+
+   my name is Jaroslav. I am a C#/.NET/Java developer.
+   
